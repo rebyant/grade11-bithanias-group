@@ -1,0 +1,150 @@
+.container{
+   margin: auto;
+    height: 380px;
+    width: 450px;
+    background-color: black;
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    margin-top: auto;
+}
+div{margin: auto;
+height: 580px;
+width: 700px;
+background-color: black;}
+h1{font-size: 20px;
+    color: white;
+}
+p{font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p4{font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    font-size: 20px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h5{
+    font-size: 20px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h6{
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p8{
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p9{
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p10{
+    font-size: 20px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    color: white;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+.b { color: white;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+padding: 35px;  }
+article{ margin: auto;
+    height: 380px;
+    width: 450px;
+    background-color: black;
+text-align: center;}
+.salad{border-radius: 50px;
+    margin-top: auto;}    
+section{margin: auto;
+    height: 380px;
+    width: 700px;
+    background-color: black;}
+li{font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;}
+.salad{
+    background-color: white;}    
+.fishname{font-size: 20px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;}
+    .fish{margin: auto;
+        height: 380px;
+        width: 450px;
+        background-color: black;}
+.fishphoto{border-radius: 50%;
+    margin-top: auto;}
+.fishword{font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;}
+.fishphoto2{
+border-radius: 50%;
+  margin-top: auto;}
+.fishstep1{background-color: black;}
+.fishword2{font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;}
+.fishstep2{background-color: black;
+height: 370px;}
+.fishphoto3{
+    border-radius: 50%;
+      margin-top: auto;}
+.fishvedio{background-color: white;} 
+.sandwich1{ color: white;
+font-size: 35px;
+font-family: Arial, Helvetica, sans-serif;}
+.sandwich2{background-color: black;
+height: 520px;
+text-align: center;}
+.sandwich3{border-radius: 50%;
+    margin-top: auto;}
+.sandwich4{ margin: auto;
+    height:400px;
+    width: 750px;
+    background-color: black;
+text-align: center; }
+.sandwich5{color:white}
+.box1{background-color: rgba(0, 255, 191, 0.452);
+padding-top: 20px;
+padding-bottom: 20px;
+height: 25px;
+width: 1000px;
+text-align: center;}
+.box1 a{padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    font-size:20px;}
+.box1 input{
+    float: right;
+    display: block;
+overflow: hidden;
+cursor:pointer}    
+.box1 .search-container button:hover {
+    background: #ccc;
+  }
